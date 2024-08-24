@@ -1,0 +1,4 @@
+remote_host     gpu9
+remote_path     ~/continual_learning
+auto_sync_up    0
+ignore_path     ["*.ipynb", "*venv"]
